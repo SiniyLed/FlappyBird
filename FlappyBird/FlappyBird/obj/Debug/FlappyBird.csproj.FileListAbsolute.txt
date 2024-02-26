@@ -1,0 +1,15 @@
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\MainWindow.g.cs
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\App.g.cs
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.cache
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.lref
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\bin\Debug\FlappyBird.exe
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\MainWindow.baml
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.g.resources
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.exe
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\Алина\важно!\программирование\проекты визуала\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
